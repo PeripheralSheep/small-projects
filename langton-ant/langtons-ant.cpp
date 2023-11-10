@@ -6,6 +6,7 @@
 
 int antgrid = 0;
 
+
 struct grid{
 	char colours;
 	int row;
